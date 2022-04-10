@@ -4,5 +4,10 @@ body {
 
 #titulo {
     position: fixed;
-    top: 0px;
+    top: 0;
+}
+
+#cabecalho {
+    position: fixed;
+    top: 0;
 }
