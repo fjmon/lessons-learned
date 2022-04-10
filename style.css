@@ -8,4 +8,6 @@ body {
     top: 0;
     height: 90px;
 }
-
+#minha_foto{
+    border-radius: 100px;
+}
