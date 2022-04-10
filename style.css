@@ -2,12 +2,10 @@ body {
     background-color: rgb(253, 251, 251);
 }
 
-#titulo {
+#cabecalho {
+    background-color: white;
     position: fixed;
     top: 0;
+    height: 90px;
 }
 
-#cabecalho {
-    position: fixed;
-    top: 0;
-}
