@@ -39,6 +39,7 @@ body {
     font-size: 16px;
     border-radius: 4px;
 }
+
 #licoes_aprendidas {
     background-color: #eeeeee;
 }
@@ -46,12 +47,12 @@ body {
 #licoes_a_aprender {
     background-color: #eeeeee;
 }
+
 #aside {
     padding: 0px;
-    border: 4px solid red;
+    border: 2px solid red;
     background-color: rgb(216, 139, 149);
-    height: 230px;
+    height: 260px;
     width: 20%;
     margin-top: 10px;
-
 }
