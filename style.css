@@ -52,7 +52,8 @@ body {
     padding: 0px;
     border: 2px solid red;
     background-color: rgb(216, 139, 149);
-    height: 260px;
+    height: 210px;
     width: 20%;
-    margin-top: 10px;
+    margin-top: 5px;
+    border-radius: 8px;
 }
